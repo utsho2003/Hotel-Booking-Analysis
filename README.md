@@ -93,5 +93,3 @@ This project provides valuable insights into hotel booking trends, customer beha
 ## Author
 
 **Utsho Ghosh**
-
-GitHub: https://github.com/your-username
